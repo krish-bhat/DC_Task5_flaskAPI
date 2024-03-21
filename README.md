@@ -4,7 +4,7 @@ what is this API?
 
 The provided Flask application (app.py) offers a robust solution for file uploads and retrieval. It seamlessly integrates web-based file uploading with RESTful API capabilities, catering to both user-driven interactions and programmatic access. With a user-friendly HTML interface, users can conveniently select and upload multiple files of various formats. Meanwhile, the application's API endpoints enable seamless integration with other systems, facilitating automated file uploads and metadata retrieval. Leveraging MongoDB for efficient storage and retrieval of file metadata enhances scalability and data management. This application serves as a versatile tool for handling file-related tasks, whether for interactive web use or backend integration within larger systems, offering flexibility and efficiency in managing file uploads and associated information.
 
-# How to install this
+# How to install this  
 
 Organization or your repository
 
@@ -17,6 +17,8 @@ pip install Flask,
    pip install pymongo
 
 There is mongodb connection that is made which collects the file meta data 
+
+make sure make an 'uploads' folder 
 
 after, run app.py click on http://127.0.0.1:5000 to load the files
 
@@ -34,5 +36,5 @@ after, run app.py click on http://127.0.0.1:5000 to load the files
 
 ![image](https://github.com/krish-bhat/DC_Task5_flaskAPI/assets/99545739/5853855a-1d3c-4693-a073-2f9c5e48f458)
 
-The uploaded files are seen in uploads folder
+The uploaded files are seen in 'uploads' folder
 
