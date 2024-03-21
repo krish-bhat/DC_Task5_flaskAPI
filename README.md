@@ -12,9 +12,9 @@ Organization or your repository
 
 Create a virtual environment (optional), and make sure it has :
 
-pip install Flask
-pip install pymongo
-pip install pymongo
+pip install Flask,
+  pip install pymongo, 
+   pip install pymongo
 
 There is mongodb connection that is made which collects the file meta data 
 
