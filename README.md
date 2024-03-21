@@ -20,7 +20,10 @@ There is mongodb connection that is made which collects the file meta data
 
 make sure make an 'uploads' folder 
 
-after, run app.py click on http://127.0.0.1:5000 to load the files
+after, run app.py click on http://127.0.0.1:5000 (the link which is been mentioned that is been hosted) to load the files
+
+![image](https://github.com/krish-bhat/DC_Task5_flaskAPI/assets/99545739/58fc63f1-80dc-4595-b874-353cb1094b65)
+
 
 # Screenshots (browser)
 ![image](https://github.com/krish-bhat/DC_Task5_flaskAPI/assets/99545739/202d93ae-c83b-46f4-bf22-56f9820751fd)
