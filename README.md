@@ -14,11 +14,11 @@ Create a virtual environment (optional), and make sure it has :
 
 pip install Flask,
   pip install pymongo, 
-   pip install pymongo
+   pip install Werkzeug
 
-There is mongodb connection that is made which collects the file meta data 
+There is mongodb connection that is made which collects the file metadata 
 
-make sure make an 'uploads' folder 
+make sure to add an 'uploads' folder 
 
 after, run app.py click on http://127.0.0.1:5000 (the link which is been mentioned that is been hosted) to load the files
 
